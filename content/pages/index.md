@@ -14,7 +14,7 @@ sections:
       Do you need to manage multiple software packages to undertake your
       business? Do you lose hours in time-consuming administration?
     actions:
-      - label: Arrange a FREE consultation Now!
+      - label: Arrange a FREE consultation now!
         altText: Free Consultation
         url: /contact-us
         showIcon: false
