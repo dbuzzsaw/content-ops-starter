@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Arrange a free consultation
         altText: Free Consultation
-        url: /
+        url: /contact-us
         showIcon: false
         icon: arrowRight
         iconPosition: right
