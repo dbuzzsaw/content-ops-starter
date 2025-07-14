@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       We help small businesses automate spreadsheets, reports, and other admin
-      processes - so you can focus on what matters.
+      processes - so you can focus on what truly matters.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
