@@ -7,7 +7,9 @@ sections:
       text: Reclaim lost hours in tedious forms.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      We help small businesses and NDIS providers automate spreadsheets,
+      reports, and other admin processes — so you can focus on what matters.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
