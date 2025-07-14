@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "Industries",
-                    "url": "/",
+                    "url": "/industries",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
