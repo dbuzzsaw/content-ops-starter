@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Reclaim lost hours in tedious forms.
+      text: Reclaim lost hours in tedious work.
       color: text-dark
       type: TitleBlock
     subtitle: >-
