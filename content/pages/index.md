@@ -12,7 +12,7 @@ sections:
       processes - so you can focus on what truly matters.
     text: >
       Do you need to manage multiple software packages to undertake your
-      business? Do you lose hours in time-consuming administration?
+      business? Do you lose hours in time-consuming admin work?
     actions:
       - label: Arrange a FREE consultation NOW!
         altText: Free Consultation
