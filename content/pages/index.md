@@ -11,9 +11,11 @@ sections:
       We help small businesses automate spreadsheets, reports, and other admin
       processes - so you can focus on what truly matters.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Do you need to manage multiple software packages to undertake your
+      business? Do you lose hours in time-consuming computer admin work that
+      feels mind-numbing, such as manual data entry? Butler Business Services is
+      ready to listen to your frustrations and find cost-effective solutions to
+      take back those lost hours!
     actions:
       - label: Arrange a free consultation Now!
         altText: Free Consultation
