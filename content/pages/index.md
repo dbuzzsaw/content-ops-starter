@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      What if your business could run smoother - without adding another team
+      What if your business could run smoother without adding another team
       member?
     text: >
       We help small businesses automate spreadsheets, reports, and other admin
