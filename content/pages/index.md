@@ -13,9 +13,7 @@ sections:
     text: >
       Do you need to manage multiple software packages to undertake your
       business? Do you lose hours in time-consuming computer admin work that
-      feels mind-numbing, such as manual data entry? Butler Business Services is
-      ready to listen to your frustrations and find cost-effective solutions to
-      take back those lost hours!
+      feels mind-numbing?
     actions:
       - label: Arrange a free consultation Now!
         altText: Free Consultation
