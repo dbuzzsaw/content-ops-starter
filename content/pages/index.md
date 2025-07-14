@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        What if your business could run smoother — without adding another team
-        member?
+      text: Reclaim lost hours from tedious admin
       color: text-dark
       type: TitleBlock
     subtitle: >-
