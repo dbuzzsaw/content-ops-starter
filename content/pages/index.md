@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: DO Business Smarter.
+      label: Stuck in spreadsheets? Drowning in admin? You’re not alone.
       color: text-primary
       type: Badge
     elementId: ''
