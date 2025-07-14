@@ -16,9 +16,8 @@ sections:
 
 
 
-
-      Do you need to manage multiple software packages to undertake your
-      business? Do you lose hours in time-consuming admin work?
+      We turn repetitive work into efficient flows — so your team can focus on
+      impact, not input.
     actions:
       - label: Arrange a FREE consultation NOW!
         altText: Free Consultation
