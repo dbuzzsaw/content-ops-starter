@@ -16,7 +16,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions:
       - label: Arrange a free consultation
-        altText: ''
+        altText: Free Consultation
         url: /
         showIcon: false
         icon: arrowRight
