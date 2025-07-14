@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: SAVE TIME. Automate
+      label: DO Business Smarter.
       color: text-primary
       type: Badge
     elementId: ''
