@@ -9,6 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
+      We help small businesses automate spreadsheets, reports, and other admin
+      processes - so you can focus on what truly matters.
+
+
+
+
       Do you need to manage multiple software packages to undertake your
       business? Do you lose hours in time-consuming admin work?
     actions:
