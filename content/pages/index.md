@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Our Capabilities
+      - label: See our Capabilities
         altText: Services
         url: /services
         showIcon: true
