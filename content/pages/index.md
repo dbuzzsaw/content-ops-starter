@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: See Our Capabilities
         altText: Services
-        url: /
+        url: /services
         showIcon: true
         icon: arrowRight
         iconPosition: right
