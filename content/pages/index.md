@@ -15,7 +15,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Arrange a free consultation!
+      - label: Arrange a free consultation Now!
         altText: Free Consultation
         url: /contact-us
         showIcon: false
