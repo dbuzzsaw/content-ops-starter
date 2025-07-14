@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
       - label: See Our Capabilities
-        altText: ''
+        altText: Services
         url: /
         showIcon: true
         icon: arrowRight
