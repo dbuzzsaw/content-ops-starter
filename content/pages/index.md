@@ -7,7 +7,9 @@ sections:
       text: Reclaim lost hours from tedious admin
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      What if your business could run smoother — without adding another team
+      member?
     text: >
       We help small businesses automate spreadsheets, reports, and other admin
       processes - so you can focus on what truly matters.
