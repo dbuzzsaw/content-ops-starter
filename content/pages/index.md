@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team. Reclaim company hours
+      text: Reclaim lost hours in tedious forms.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
