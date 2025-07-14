@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Reclaim lost hours from tedious work.
+      text: >-
+        What if your business could run smoother — without adding another team
+        member?
       color: text-dark
       type: TitleBlock
     subtitle: >-
