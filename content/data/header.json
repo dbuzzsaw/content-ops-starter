@@ -62,7 +62,7 @@
                 },
                 {
                     "label": "Additional Services",
-                    "url": "/",
+                    "url": "/additional-services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
