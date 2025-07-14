@@ -7,9 +7,7 @@ sections:
       text: Reclaim lost hours from tedious admin
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      We help small businesses automate spreadsheets, reports, and other admin
-      processes - so you can focus on what truly matters.
+    subtitle: ''
     text: >
       Do you need to manage multiple software packages to undertake your
       business? Do you lose hours in time-consuming admin work?
